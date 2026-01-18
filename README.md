@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Data engineering
 - 🌱 I’m currently learning ...Azure data engineering
 - 💞️ I’m looking to collaborate on ...Data driven POCs
-- 📫 How to reach me ... drop me one mail @siddharthrautaray@ymail.com
+- 📫 How to reach me ... drop me one mail @sidxch@gmail.com
 
 <!---
 sidx17/sidx17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
