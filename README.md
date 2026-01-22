@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidx17
-- 👀 I’m interested in ...Data engineering
-- 🌱 I’m currently learning ...Azure data engineering
-- 💞️ I’m looking to collaborate on ...Data driven POCs
+- 👀 I’m interested in ...Data engineering,Gen AI,AgenticAI 
+- 🌱 I’m currently learning ...How to create scalable and well governed AI apps and infra for it.
+- 💞️ I’m looking to collaborate on ...azure foundry/databricks AI platform.
 - 📫 How to reach me ... drop me one mail @sidxch@gmail.com
 
 <!---
